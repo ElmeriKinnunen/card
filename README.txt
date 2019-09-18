@@ -1,2 +1,1 @@
-Reguires PHP > 5
 
